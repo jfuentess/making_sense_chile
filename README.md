@@ -29,5 +29,9 @@ For instance, for the school ABC, assuming that it has 20 teachers, the plot of 
 
 `Rscript plot_graph.r red_edges_ABC.csv red_nodes_ABC.csv network_ABC.pdf 20`
 
-
-
+<br/>
+The next image shows an example of a resulting interaction network:
+<br/>
+<p align="center">
+<img src="example_interaction_network.png" width="70%" alt="Example of an interaction network">
+</p>
